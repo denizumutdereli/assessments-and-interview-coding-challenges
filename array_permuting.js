@@ -1,5 +1,5 @@
 /*
-terrible describted quetion at @hackerrank
+terrible descripted question at @hackerrank
 ->google.
 
 */
