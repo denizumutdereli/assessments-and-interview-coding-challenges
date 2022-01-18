@@ -1,6 +1,8 @@
 # assessments-and-interview-coding-challenges
 Here I will post and keep update the assessment and interview coding challenges
 
+> I am interested in different languages. Such as PHP, python and node tests. Therefore, there are different type of question solutions.
+
 
 > Almost every company invites developers to assesments and the interview coding challenges. 
 
